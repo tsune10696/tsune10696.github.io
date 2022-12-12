@@ -1,8 +1,8 @@
 # Site settings
 title: Ippei Tsunezawa
 description: 'Business Card Page'
-url: 'https://tsune10696.github.io/webpage/'
-baseurl: 'https://tsune10696.github.io/webpage/'
+url: 'https://tsune10696.github.io/webpage'
+baseurl: ''
 profilepic: '/Ippei_Tsunezawa.jpg'
 bkimage: '/Ippei_Tsunezawa.jpg'
 google_analytics: UA-XXXXXX-X
