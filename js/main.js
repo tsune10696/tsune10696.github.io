@@ -32,9 +32,14 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
+// site.baseurl周りを変更
+  if (window.location.pathname !== '{{ site.baseurl }}/webpage/' && window.location.pathname !== '{{ site.baseurl }}/webpage/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
+    
+//    if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
+//      $('.panel-cover').addClass('panel-cover--collapsed')
+//    }
 
   $('.btn-mobile-menu').click(function () {
     $('.navigation-wrapper').toggleClass('visible animated bounceInDown')

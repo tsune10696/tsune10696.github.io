@@ -3,13 +3,24 @@
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
 </span>
 
-<header class="panel-cover" style="background-image: url({{ site.baseurl }}{{ site.bkimage }})">
+<!--site.baseurl周りを変更-->
+<!--<header class="panel-cover" style="background-image: url({{ site.baseurl }}{{ site.bkimage }})">-->
+<!--  <div class="panel-main">-->
+<!---->
+<!--    <div class="panel-main__inner panel-inverted">-->
+<!--    <div class="panel-main__content">-->
+<!--        <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">-->
+<!--          <img src="{{ site.baseurl }}{{ site.profilepic }}" class="user-image" alt="My Profile Photo">-->
+<!--          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>-->
+
+
+<header class="panel-cover" style="background-image: url({{ site.baseurl }}/webpage/{{ site.bkimage }})">
   <div class="panel-main">
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
-        <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
-          <img src="{{ site.baseurl }}{{ site.profilepic }}" class="user-image" alt="My Profile Photo">
+        <a href="{{ site.baseurl }}/webpage/" title="link to home of {{ site.title }}">
+          <img src="{{ site.baseurl }}/webpage/{{ site.profilepic }}" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
@@ -104,12 +115,22 @@
             </ul>
           </nav>
           
+<!--          site.baseurl周りを変更-->
+<!--          <!--<nav class="cover-navigation cover-navigation--primary">-->-->
+<!--          <nav class="cover-navigation navigation--social">-->
+<!--            <ul class="navigation">-->
+<!--              <!-- <li class="navigation__item"><a href="{{ site.baseurl }}/#projects" title="Projects"><i class="fas fa-link fa-lg"></i>&nbsp;Projects</a></li> -->-->
+<!--              <li class="navigation__item">-->
+<!--                <a href="{{ site.baseurl }}/#projects" title="Performance" class="panel-button projects-button" style="line-height: initial;">-->
+<!--                  <i class="fas fa-file-code fa-lg"></i>-->
+<!--                  &nbsp;Work-->
+        
           <!--<nav class="cover-navigation cover-navigation--primary">-->
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
-              <!-- <li class="navigation__item"><a href="{{ site.baseurl }}/#projects" title="Projects"><i class="fas fa-link fa-lg"></i>&nbsp;Projects</a></li> -->
+              <!-- <li class="navigation__item"><a href="{{ site.baseurl }}/webpage/#projects" title="Projects"><i class="fas fa-link fa-lg"></i>&nbsp;Projects</a></li> -->
               <li class="navigation__item">
-                <a href="{{ site.baseurl }}/#projects" title="Performance" class="panel-button projects-button" style="line-height: initial;">
+                <a href="{{ site.baseurl }}/webpage/#projects" title="Performance" class="panel-button projects-button" style="line-height: initial;">
                   <i class="fas fa-file-code fa-lg"></i>
                   &nbsp;Work
                 </a>
