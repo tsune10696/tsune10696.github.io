@@ -1,24 +1,34 @@
 # Site settings
-title: Hiromu Tsuruta
+title: Ippei Tsunezawa
 description: 'Business Card Page'
-url: 'https://crane-hiromu.github.io'
+url: 'https://tsune10696.github.io/webpage/'
 baseurl: ''
-profilepic: '/images/HiromuTsuruta.jpg'
-bkimage: '/images/bk1.jpg'
+profilepic: '/Ippei_Tsunezawa.jpg'
+bkimage: '/Ippei_Tsunezawa.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
+## title: Hiromu Tsuruta
+## url: 'https://crane-hiromu.github.io'
+## profilepic: '/images/HiromuTsuruta.jpg'
+## bkimage: '/images/bk1.jpg'
+
 
 author:
-  name: 'Hiromu Tsuruta'
+  name: 'Ippei Tsunezawa'
   twitter_username: hcrane14
-  facebook_username: tsuruta.hiromu
-  linkedin_username: hiromu-tsuruta
-  github_username: crane-hiromu
-  qiita_username: hcrane
-  leetcode_username: h_crane
-  note_username: hcrane
-  speakerdeck_username: hcrane
-  email: h.crane.t@gmail.com
+  github_username: tsune10696
+  qiita_username: TunaProducts
+  note_username: hanbun_gakusei
+  email: tsune10696@gmail.com
+##  name: 'Hiromu Tsuruta'
+##  facebook_username: tsuruta.hiromu
+##  linkedin_username: hiromu-tsuruta
+##  leetcode_username: h_crane
+##  speakerdeck_username: hcrane
+##  email: h.crane.t@gmail.com
+##  note_username: hcrane
+##  github_username: crane-hiromu
+##  qiita_username: hcrane
 
 # Build settings
 destination: _site
