@@ -3,10 +3,11 @@ title: Hiromu Tsuruta
 description: 'Business Card Page'
 url: 'https://crane-hiromu.github.io'
 baseurl: ''
-profilepic: '/images/HiromuTsuruta.jpg'
+profilepic: '/images/Ippei_T.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
+# profilepic: '/images/HiromuTsuruta.jpg'
 
 author:
   name: 'Hiromu Tsuruta'
