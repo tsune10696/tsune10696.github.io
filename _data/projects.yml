@@ -1,0 +1,66 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: 一冊で分かる！開発者コミュニティの作り方・育て方
+  url: https://techbookfest.org/product/6257886411882496
+  date: 2022/1/22-
+  img: https://user-images.githubusercontent.com/24838521/155868684-a1604f73-90df-4d99-9477-a56c165bbebd.png
+  desc: This is a book about developer communities.
+
+- name: Publication<br>- RAKUMA TECH BOOK Vol.2
+  url: https://techbookfest.org/product/5736988181266432
+  date: 2022/1/22-
+  img: https://user-images.githubusercontent.com/24838521/155868558-440da1c0-196e-4104-97fc-fa95f98ffca9.png
+  desc: This is the second book about the engineering, design, and projects that go on in the field at Rakuma.
+
+- name: Publication<br>- RAKUMA TECH BOOK Vol.1
+  url: https://techbookfest.org/product/5356051056558080
+  date: 2021/7/15-
+  img: https://user-images.githubusercontent.com/24838521/125667584-168a63c0-4f01-40e9-86c4-3046cf60089a.png
+  desc: This is the first book about the engineering, design, and projects that go on in the field at Rakuma.
+
+- name: Outstanding performance award in SPAJAM 2020 The 3rd Qualifying
+  url: https://github.com/crane-hiromu/SPAJAM2020_iOS_App
+  date: 2020/10/3-4
+  img: https://user-images.githubusercontent.com/24838521/106168682-e9975400-61d1-11eb-8e07-82f1f889ef27.png
+  desc: We won the outstanding performance award in SPAJAM 2020 The 3rd Qualifying which is one of the biggest hackathon in Japan.
+
+- name: Speaker at iOSDC Japan 2020<br>- iOSリジェクト戦記 ~リジェクトされないための課金ページ~
+  url: https://www.youtube.com/watch?v=99JaW8DIZbo
+  date: 2020/9/19-21
+  img: https://user-images.githubusercontent.com/24838521/106269645-1e59e880-6270-11eb-95af-cc189d8d51fa.png
+  desc: I was a speaker at iOSDC Japan 2020 which is one of the biggest conference in Japan for engineers about iOS and related technologies.
+
+- name: Speaker at DroidKaigi 2020<br>- Scadeを使って「Swift」で始めるAndroidアプリ開発
+  url: https://www.youtube.com/watch?v=cUzA4YThK7s
+  date: 2020/8/27-29
+  img: https://user-images.githubusercontent.com/24838521/106272406-5b27de80-6274-11eb-92dc-53fc45580432.png
+  desc: I was a speaker at DroidKaigi 2020 which is one of the biggest conference in Japan tailored for developers
+
+- name: MA Online Hackathon Audience Award
+  url: https://note.com/hcrane/n/nae5a7c7f292f
+  date: 2019/10/19-20
+  img: https://user-images.githubusercontent.com/24838521/106273044-5879b900-6275-11eb-834a-88ec83f67e98.png
+  desc: We won the audience award in MA Online Hackathon which was held online.
+
+- name: Outstanding performance award in NRI Hackathon bit.Connect 2019
+  url: https://github.com/crane-hiromu/MARUCH-iOS
+  date: 2019/10/19-20
+  img: https://user-images.githubusercontent.com/24838521/106142153-77fcdd00-61b4-11eb-81f4-d36690b6ec1b.jpg
+  desc: We won the two award in NRI Hackathon bit.Connect 2019. One is the Technology Performance Award and the other is Theme Award.
+
+- name: Publication<br>- これからの「分析」の話をしよう
+  url: https://booth.pm/ja/items/1567921
+  date: 2019/9/12-
+  img: https://user-images.githubusercontent.com/24838521/106179191-05a0f280-61de-11eb-8a01-056d93ce09f7.png
+  desc: This book was written with two major themes in mind, SwiftUI and analytics.
+
+
+- name: Outstanding performance award in SPAJAM 2018 Tokyo Qualifying
+  url: https://prottapp.com/p/be80d0
+  date: 2018/05/26-27
+  img: https://user-images.githubusercontent.com/24838521/106143372-06be2980-61b6-11eb-9ce9-7332363ef35d.png
+  desc: We won the outstanding performance award in SPAJAM 2018 Tokyo Qualifying which is one of the biggest hackathon in Japan.
+
+
+  
