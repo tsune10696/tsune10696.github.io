@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ippei Tsunezawa
+title: Ippei.T
 description: 'Business Card Page'
 profilepic: '/images/Ippei_T_sq.jpg'
 bkimage: '/images/Toya.jpg'
@@ -34,7 +34,7 @@ url: "https://tsune10696.github.io" # the base hostname & protocol for your site
 
 
 author:
-  name: 'Ippei Tsunezawa'
+  name: 'Ippei.T'
   github_username: tsune10696
   qiita_username: TunaProducts
   note_username: hanbun_gakusei
