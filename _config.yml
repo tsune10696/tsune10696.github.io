@@ -22,8 +22,8 @@ title: Ippei.T
 description: 'Business Card Page'
 profilepic: '/images/Ippei_T_sq.jpg'
 bkimage: '/images/Toya.jpg'
+google_analytics: G-Y03JCLH8R1
 font_awesome: 'XXXXXXXXXX.js'
-google_analytics: 'G-Y03JCLH8R1'
 
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
