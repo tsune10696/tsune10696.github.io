@@ -23,7 +23,7 @@ description: 'Business Card Page'
 profilepic: '/images/Ippei_T_sq.jpg'
 bkimage: '/images/Toya.jpg'
 font_awesome: 'XXXXXXXXXX.js'
-
+google_analytics: 'G-Y03JCLH8R1'
 
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
@@ -39,7 +39,7 @@ author:
   qiita_username: TunaProducts
   note_username: hanbun_gakusei
   email: tsune10696@gmail.com
-  google_analytics: G-Y03JCLH8R1
+
 
 # Build settings
 theme: minima
