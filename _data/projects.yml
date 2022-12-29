@@ -2,6 +2,18 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: 【GitHub】ソースコード公開
+  url: https://github.com/tsune10696/codeSwift/tree/main/App_Honyaku
+  date: 2022/12/26
+  img: '/images/github.png'
+  desc: iOSアプリ「Honyaku」のソースコードをGitHubに公開しました。
+  
+- name: 【iOSアプリ】iOSアプリ作成
+  url: https://apps.apple.com/app/honyaku/id1661095289
+  date: 2022/12/26
+  img: '/images/Honyaku.png'
+  desc: 入力した言語を自動判別して、日本語に翻訳してくれるアプリをSwift言語で作ってみました。<br>・App名 「Honyaku」<br>・価格 「¥0（広告なし）」<br>App Storeからダウンロードできます。
+
 - name: 【Qiita】C++関係の記事投稿
   url: https://qiita.com/TunaProducts/items/8f4653953ca97ec48d65
   date: 2022/12/20
