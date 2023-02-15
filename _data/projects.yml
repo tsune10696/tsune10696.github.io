@@ -1,7 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-  
+
+- name: 【GitHub】ソースコード公開(3)
+  url: https://github.com/tsune10696/codeSwift/tree/main/SearchFreePhotos
+  date: 2023/02/15
+  img: '/images/github.png'
+  desc: iOSアプリ「SearchPhotos」のソースコードをGitHubに公開しました。
+
 - name: 【iOSアプリ】iOSアプリ作成(3)
   url: https://apps.apple.com/jp/app/searchphotos/id1668961349
   date: 2023/02/14
