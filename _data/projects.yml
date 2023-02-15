@@ -89,19 +89,19 @@
 - name: 【研究】Stanford Universityで学会発表(EMI2015)
   url: https://github.com/tsune10696/other/blob/main/EMI2015_abstract.pdf
   date: 2015/06/17
-  img: '/images/EMI2015_abstract.pdf'
+  img: '/images/EMI2015_abstract.png'
   desc: オープンソースの解析フレームワーク(OpenSees)にて開発した構造解析モデルを用いた研究について、Stanford 大学にて発表してきました。Abstractをリンク先に保存しています。
   
 - name: 【研究】UC Berkeleyにて研究
   url: https://github.com/tsune10696/other/blob/main/UCBerkeley_2014.pdf
   date: 2014/11/19-26
-  img: '/images/UCBerkeley_2014.pdf'
+  img: '/images/UCBerkeley_2014.png'
   desc: オープンソースの解析フレームワーク(OpenSees)のC++コード開発に関して打ち合わせをする為、カリフォルニア大学バークレー校(UC Berkeley)等に行ってきました。米国訪問目的の要旨の資料をリンク先に保存しています。
   
 - name: 【設計コンペ】設計コンペ入賞
   url: https://github.com/tsune10696/other/blob/main/Competition_2014.pdf
   date: 2014/07/17
-  img: '/images/Competition_2014.pdf'
+  img: '/images/Competition_2014.png'
   desc: 2014年度日本建築学会技術部門設計競技にて佳作を受賞しました。プレゼンボード等をリンク先に保存しています。
 
 - name: 【C++,GitHub】構造解析フーレムワークの開発<br>(Takeda model)
