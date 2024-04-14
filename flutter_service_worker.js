@@ -7,9 +7,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "8ea08ea2444cc58ec5807fd7669e488f",
-"assets/NOTICES": "0a8d05c8b1869580511ed2082285c3f6",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
+"assets/fonts/MaterialIcons-Regular.otf": "3c9123d3068bce78c14c1174814ae272",
+"assets/NOTICES": "6de3d8edb562c3b1764803a560a07a58",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e14d4247c0221552f79bf5629127cff4",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "canvaskit/canvaskit.js.symbols": "38cba9233b92472a36ff011dc21c2c9f",
@@ -27,11 +27,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1ef5a0ff6f1a94a6f3e52a9c2905e83a",
-"/": "1ef5a0ff6f1a94a6f3e52a9c2905e83a",
-"main.dart.js": "46550afa3f3d05553ed378c756779dc4",
-"manifest.json": "0d5b417a2d872178a066947c89858bd5",
-"version.json": "364a79d4240867321adbd36d7f23d83f"};
+"index.html": "1e985fdbefe1cc1c4c18f8f82abff23c",
+"/": "1e985fdbefe1cc1c4c18f8f82abff23c",
+"main.dart.js": "e82b096af043a492110ad927584c58f0",
+"manifest.json": "4034b2fc9cf4aa2cd73dd68d7665dd8c",
+"version.json": "c950b218265aff540e61d67b9cf86716"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",

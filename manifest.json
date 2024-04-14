@@ -1,6 +1,6 @@
 {
-    "name": "poimaru_web",
-    "short_name": "poimaru_web",
+    "name": "poimaru_app",
+    "short_name": "poimaru_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
